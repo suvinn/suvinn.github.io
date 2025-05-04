@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Suvin"
+  name             : "Song Suvin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "suvin의 블로그입니다."
+  bio              : "비전공자의 AI 공부 기록장입니다:)"
   location         : "South Korea"
   email            : "ssongsuvin@naver.com"
   links:
