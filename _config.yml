@@ -20,8 +20,8 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Suvinn's DataLab"
 title_separator          : "|"
 subtitle                 : "small but meaningful steps"
-name                     : "Your Name"
-description              : "suvinn의 블로그입니다."
+name                     : "송수빈"
+description              : "수빈의 블로그입니다."
 url                      : "https://suvinn.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Song Suvin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "비전공자의 AI 공부 기록장입니다:)"
+  bio              : "AI 공부 기록장 ✍️"
   location         : "South Korea"
   email            : "ssongsuvin@naver.com"
   links:
